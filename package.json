@@ -1,0 +1,38 @@
+{
+  "name": "vscode-front-end-pack",
+  "publisher": "caoayu",
+  "displayName": "vscode-front-end-pack",
+  "description": "vscode front-end extension",
+  "pricing": "Free",
+  "version": "0.0.1",
+  "icon": "icon.png",
+  "license": "AGPL-3.0-only",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "repository": {
+    "url": "https://github.com/ayuayue/vscode-front-end-pack"
+  },
+  "keywords": [
+    "vscode",
+    "git",
+    "html",
+    "css",
+    "js",
+    "typescript",
+    "node"
+  ],
+  "extensionPack": [
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "dbaeumer.vscode-eslint",
+    "ecmel.vscode-html-css",
+    "anteprimorac.html-end-tag-labels",
+    "gencer.html-slim-scss-css-class-completion",
+    "bradlc.vscode-tailwindcss",
+    "christian-kohler.npm-intellisense"
+  ]
+}
