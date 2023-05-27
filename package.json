@@ -1,8 +1,8 @@
 {
-  "name": "vscode-front-end-pack",
+  "name": "vscode-web-pack",
   "publisher": "caoayu",
-  "displayName": "vscode-front-end-pack",
-  "description": "vscode front-end extension",
+  "displayName": "vscode-web-pack",
+  "description": "vscode web extension",
   "pricing": "Free",
   "version": "0.0.1",
   "icon": "icon.png",
